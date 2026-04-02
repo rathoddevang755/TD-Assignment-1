@@ -1,0 +1,22 @@
+"""
+ASSIGNMENT 1
+Task 1: Perform Basic Mathematical Operations
+"""
+F1 = float(input("Enter the first number: "))
+F2 = float(input("Enter the second number: "))
+
+
+print("Addition:",round(F1 + F2))
+print("Subtraction:",round(F1 - F2))
+print("Multiplication:",round(F1 * F2))
+print("Division:",(F1 / F2))
+
+
+"""
+Task 2: Create a Personalized Greeting
+"""
+
+D1 = input("Enter your First Name: ")
+D2 = input("Enter your second Name: ")
+
+print("Hello,",D1+" "+D2+"! Welcome to the Python Program.")
